@@ -1,0 +1,23 @@
+rạp, phim, giải_trí
+sự_kiện, lễ_hội
+giới_thiệu, khái_quát
+hi, hello, chào, bắt_đầu
+tour
+thông_tin, cần_thiết, ghi_nhớ, du_lịch, quan_trọng
+nguy_cấp, khẩn_cấp, sos, hoảng_loạn
+chat, trực_tiếp, kém
+địa_điểm, địa_danh, điểm_đến
+tự_nhiên, sinh_thái, thiên_nhiên, phong_cảnh
+văn_hóa
+tâm_linh, tín_ngưỡng
+ngôi_đền, chùa
+nhà_thờ, giáo_đường
+làng_nghề, thủ_công, làng
+bảo_tàng, trưng_bày, mẫu_vật, cổ_vật
+di_tích, chứng_tích
+tắm, bãi_biển, bơi, cát
+review, bình_luận, nhận_xét, chấm_điểm
+vườn_quốc_gia
+nhà_hàng
+trải_nghiệm, hoạt_động
+ngoại_thành, ngoại_ô
